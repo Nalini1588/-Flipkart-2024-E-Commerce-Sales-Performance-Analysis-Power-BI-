@@ -98,7 +98,7 @@ The tables are connected using keys such as **Order_ID, Customer_ID, and Product
 ## Files Included
 - `Dashboard.pbix` – Editable Power BI dashboard
 - `Nalini_Power_BI_END_Term_Project.pdf` – Dashboard presentation
-- Screenshots (optional for preview)
+
 
 ---
 
